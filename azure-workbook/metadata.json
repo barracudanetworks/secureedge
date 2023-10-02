@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Barracuda SecureEdge Dashboard",
+  "description": "This template allows you to deploy a Barracuda CGW Dashboard into a new or existing Log Analytics workspace",
+  "summary": "This template takes a minimum amount of parameters",
+  "githubUsername": "andmcm",
+  "dateUpdated": "2023-09-25"
+}
